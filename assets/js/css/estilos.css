@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.contenedor-inputs{
+    margin:20px;
+    width:500px;
+
+
+}
+.input{
+    margin:10px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+.calcular{
+    margin-top:10px;
+    border-radius: 5px;
+    background-color: rgb(161, 10, 161);
+}
+.cuerpo{
+background-image: url(/assets/img/OIP.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+    width: 400px;
+    height: 200px;
+    text-align: left;
+    border-radius: 20px;
+    position: fixed;
+    top:40%;
+    padding:1%;
+}
+
+body{
+display: flex;
+justify-content: center;
+}
